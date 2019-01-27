@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gofun-ms-carservice" />
+        <module name="gofun-carservice-common" />
+        <module name="gofun-carservice-common-tools" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gofun-carservice-app" target="1.8" />
+      <module name="gofun-carservice-common" target="1.8" />
+      <module name="gofun-carservice-common-tools" target="1.8" />
       <module name="gofun-ms-carservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>

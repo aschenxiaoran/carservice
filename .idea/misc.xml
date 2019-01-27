@@ -6,7 +6,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/gofun-ms-carservice/pom.xml" />
+        <option value="$PROJECT_DIR$/gofun-carservice-common/pom.xml" />
+        <option value="$PROJECT_DIR$/gofun-carservice-common/gofun-carservice-common-tools/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/carservice.iml" filepath="$PROJECT_DIR$/.idea/carservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gofun-ms-carservice/gofun-ms-carservice.iml" filepath="$PROJECT_DIR$/gofun-ms-carservice/gofun-ms-carservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gofun-carservice-common/gofun-carservice-common.iml" filepath="$PROJECT_DIR$/gofun-carservice-common/gofun-carservice-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gofun-carservice-common/gofun-carservice-common-tools/gofun-carservice-common-tools.iml" filepath="$PROJECT_DIR$/gofun-carservice-common/gofun-carservice-common-tools/gofun-carservice-common-tools.iml" />
     </modules>
   </component>
 </project>
